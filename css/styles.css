@@ -10855,7 +10855,7 @@ h1, .h1 {
   line-height: 1;
 }
 
-p.lead {
+p.lead, ul.lead {
   font-size: 1.15rem;
   font-weight: 400;
 }
